@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/PCC/Desktop/pandas/Machine%20Learning%20Algortihms/customer%20satisfication/mlruns/0/a50f0ad56fe14f6db9393f46ace04f3e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a50f0ad56fe14f6db9393f46ace04f3e
+run_name: aged-snake-147
+run_uuid: a50f0ad56fe14f6db9393f46ace04f3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716969195389
+status: 1
+tags: []
+user_id: PCC
